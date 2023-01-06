@@ -1,0 +1,16 @@
+header{
+    margin-top: 0;
+    
+    
+}
+
+ul{
+    display: flex;
+    
+    
+}
+li{
+    list-style: none;
+    padding:20px;
+    font-size: 30px;
+}
