@@ -95,14 +95,24 @@
 }
 .auther-details{
     display: flex;
+    align-items: center;
 }
 .author-img-des{
     display: flex;
    align-items: center;
+   margin-top:10px;
    padding: 10px;
+   border-right: 1px solid red;
+   border-width: 3px;
 }
 .author-img{
     width: 100px;
     height: 100px;
     border-radius: 50px;
+}
+.more-details{
+    padding: 20px;
+}
+.author-title{
+    margin-left: 10px;
 }
