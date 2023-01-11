@@ -116,3 +116,15 @@
 .author-title{
     margin-left: 10px;
 }
+.service-up{
+    display: flex;
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    font-size: 22px;
+    gap: 30px;
+    padding: 15px;
+}
+.service-up img{
+    width: 75px;
+}
